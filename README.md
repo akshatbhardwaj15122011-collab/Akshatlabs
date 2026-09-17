@@ -1,21 +1,69 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/7832d6df-bec9-49aa-bfa7-e2835c4d1bc9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+# ? Akshat Labs
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-"# Akshatlabs" 
+## ?? Tech Stack
+
+- **Next.js 15** - React framework
+- **React 19** - UI
+- **TypeScript** - Type-safe development
+- **Three.js** - 3D graphics
+- **React Three Fiber** - React-powered 3D scenes
+- **GSAP** - High-performance animations
+- **Motion** - UI animations and transitions
+- **Tailwind CSS** - Styling
+
+## ? Features
+
+- Interactive 3D experiences
+- Smooth animations and transitions
+- Responsive design
+- Modern glassmorphism-inspired UI
+- Custom visual effects
+- Performance-focused rendering
+- Sections showcasing projects and experiments
+
+## ??? Getting Started
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+cd YOUR_REPOSITORY_NAME
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open **http://localhost:3000** in your browser.
+
+## ?? Project Structure
+
+```text
+app/            Next.js application
+components/     Reusable UI components
+lib/            Utility and application logic
+public/         Static assets
+```
+
+## ?? Deployment
+
+This project is optimized for deployment on **Vercel**.
+
+## ????? Author
+
+**Akshat**
+
+Building things, breaking things, and occasionally figuring out why they broke.
+
+---
+
+¸ 2026 Akshat Labs
